@@ -1,0 +1,14 @@
+C:\Users\luizf\OneDrive\Documentos\Estudo_CShape\Aula01\Constantes\bin\Debug\net8.0\Constantes.exe
+C:\Users\luizf\OneDrive\Documentos\Estudo_CShape\Aula01\Constantes\bin\Debug\net8.0\Constantes.deps.json
+C:\Users\luizf\OneDrive\Documentos\Estudo_CShape\Aula01\Constantes\bin\Debug\net8.0\Constantes.runtimeconfig.json
+C:\Users\luizf\OneDrive\Documentos\Estudo_CShape\Aula01\Constantes\bin\Debug\net8.0\Constantes.dll
+C:\Users\luizf\OneDrive\Documentos\Estudo_CShape\Aula01\Constantes\bin\Debug\net8.0\Constantes.pdb
+C:\Users\luizf\OneDrive\Documentos\Estudo_CShape\Aula01\Constantes\obj\Debug\net8.0\Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\OneDrive\Documentos\Estudo_CShape\Aula01\Constantes\obj\Debug\net8.0\Constantes.AssemblyInfoInputs.cache
+C:\Users\luizf\OneDrive\Documentos\Estudo_CShape\Aula01\Constantes\obj\Debug\net8.0\Constantes.AssemblyInfo.cs
+C:\Users\luizf\OneDrive\Documentos\Estudo_CShape\Aula01\Constantes\obj\Debug\net8.0\Constantes.csproj.CoreCompileInputs.cache
+C:\Users\luizf\OneDrive\Documentos\Estudo_CShape\Aula01\Constantes\obj\Debug\net8.0\Constantes.dll
+C:\Users\luizf\OneDrive\Documentos\Estudo_CShape\Aula01\Constantes\obj\Debug\net8.0\refint\Constantes.dll
+C:\Users\luizf\OneDrive\Documentos\Estudo_CShape\Aula01\Constantes\obj\Debug\net8.0\Constantes.pdb
+C:\Users\luizf\OneDrive\Documentos\Estudo_CShape\Aula01\Constantes\obj\Debug\net8.0\Constantes.genruntimeconfig.cache
+C:\Users\luizf\OneDrive\Documentos\Estudo_CShape\Aula01\Constantes\obj\Debug\net8.0\ref\Constantes.dll
